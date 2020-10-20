@@ -1,0 +1,32 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+
+    <!-- Preferred Social Media Platform Preference -->
+    <string-array name="social_media_entries">
+        <item>Google+</item>
+        <item>Facebook</item>
+        <item>WhatsApp</item>
+        <item>Instagram</item>
+        <item>Snapchat</item>
+        <item>Twitter</item>
+        <item>Telegram</item>
+    </string-array>
+    <string-array name="social_media_values">
+        <item>Google+</item>
+        <item>Facebook</item>
+        <item>WhatsApp</item>
+        <item>Instagram</item>
+        <item>Snapchat</item>
+        <item>Twitter</item>
+        <item>Telegram</item>
+    </string-array>
+</resources>
